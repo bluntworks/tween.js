@@ -64,7 +64,7 @@ Have a look at that folder to discover more functionalities of the library!
 
 2011 06 18 - **r2**
 
-Added new utility methods getAll and removeAll for getting and removing all tweens (by Paul Lewis)
+* Added new utility methods getAll and removeAll for getting and removing all tweens ([paullewis](https://github.com/paullewis))
 
 2011 05 18 - **r1**
 
